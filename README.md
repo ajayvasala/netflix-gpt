@@ -2,7 +2,9 @@
 
 -Create React app
 -Configured Tailwind css
-
+-Header
+-Login Form
+-Sign up Form
 
 
 # Features
@@ -17,3 +19,7 @@
         -Title & Description
         -Movie suggestions
             -MovieLists * N
+
+- Netflix GPT
+    -Search bar
+    -Movie suggestions
